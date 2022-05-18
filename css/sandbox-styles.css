@@ -1,0 +1,13 @@
+.container {
+    border: 1px solid;
+    
+}
+.row {
+    border: 1px solid red;
+    
+}
+.col-sm {
+    border: 1px solid black;
+    background-color: gray;
+    
+}
